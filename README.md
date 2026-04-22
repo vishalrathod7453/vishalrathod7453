@@ -10,7 +10,7 @@
 - 🔭 Working on: Data Science Projects  
 - 🌱 Learning: Machine Learning & Power BI  
 - 💡 Skills: Python, SQL, Pandas, NumPy  
-- 📫 Email: your-email@gmail.com  
+- 📫 Email: your-vishalrathod7453@gmail.com
 
 ---
 

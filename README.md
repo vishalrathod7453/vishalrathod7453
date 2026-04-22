@@ -29,7 +29,9 @@
 ## 📌 Projects
 - 🎓 Campus Placement Predictor  
 - 🚗 Car Price Prediction  
-- 📊 Customer Segmentation  
+- 📊  Social Network Ads Predictor
+- 
+
 
 ---
 

@@ -30,7 +30,7 @@
 - 🎓 Campus Placement Predictor  
 - 🚗 Car Price Prediction  
 - 📊  Social Network Ads Predictor
-- 
+- Student Performance Predictions
 
 
 ---

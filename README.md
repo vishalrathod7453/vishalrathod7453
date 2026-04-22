@@ -1,8 +1,3 @@
-A modern tech banner with dark background, glowing blue and purple gradients, 
-data science elements like graphs, charts, AI brain, coding symbols, 
-minimalist professional style, futuristic UI, high quality, 1280x400
-
-
 
 ## Hi there 👋
 

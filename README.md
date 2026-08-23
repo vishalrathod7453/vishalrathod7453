@@ -34,6 +34,7 @@
 -  Walmart Data Analysis
 -  Reveiw Sentiment Analysis (NLP)
 -  College cap rounf Predictor
+-  Supply chain Analyis
 
 
 ---

@@ -26,11 +26,14 @@
 
 ---
 
-## 📌 Projects
-- 🚗 Car Price Prediction  
-- 📊  Social Network Ads Predictor
-- Student Performance Predictions
-- Sallary Predicted
+##  Projects
+-  Car Price Prediction  
+-  Social Network Ads Predictor
+-  Student Performance Predictions
+-  Salary Predicted
+-  Walmart Data Analysis
+-  Reveiw Sentiment Analysis (NLP)
+-  College cap rounf Predictor
 
 
 ---

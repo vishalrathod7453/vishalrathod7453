@@ -3,7 +3,7 @@
 
 <# Hi 👋, I'm Vishal Rathod
 
-🎯 Aspiring Data Scientist | Python | SQL | Machine Learning  
+🎯 Aspiring Data Scientist & Data Analyst | Python | SQL | Machine Learning  
 
 ---
 

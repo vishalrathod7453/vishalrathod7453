@@ -2,22 +2,21 @@
 # Hi there 👋
 
 <# Hi 👋, I'm Vishal Rathod
-
-🎯 Aspiring Data Scientist & Data Analyst | Python | SQL | Machine Learning  
-
----
-
-## 🚀 About Me
-- 🔭 Working on: Data Science Projects  
-- 🌱 Learning: Machine Learning & Power BI  
-- 💡 Skills: Python, SQL, Pandas, NumPy  
-- 📫 Email: your-vishalrathod7453@gmail.com
+* Aspiring Data Scientist & Data Analyst | Python | SQL | Machine Learning  
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+-  Working on: Data Science Projects  
+-  Learning: Machine Learning & Power BI, SQL, Python 
+-  Skills: Python, SQL, Machine Learning, Pandas, NumPy, streamlit, sklearn, Excel, Tablue, PowerBI, Data Analysis, Data Visualization, Deep learning
+-  Email: your-vishalrathod7453@gmail.com
+
+---
+
+##  Tech Stack
 - Python | SQL | Excel | Power BI  
-- Machine Learning | Data Analysis  
+- Data Science| Data Analysis| Data Visalization, 
 
 ---
 
@@ -45,12 +44,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  I’m currently working on ...
+-  I’m currently learning ...
+-  I’m looking to collaborate on ...
+-  I’m looking for help with ...
+-  Ask me about ...
+-  How to reach me: ...
+-  Pronouns: ...
+- Fun fact: ...
 -->

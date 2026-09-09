@@ -8,7 +8,7 @@
 
 ## About Me
 -  Working on: Data Science Projects  
--  Learning: Machine Learning & Power BI, SQL, Python 
+-  Learning: Machine Learning & Power BI, SQL, Python, NLP
 -  Skills: Python, SQL, Machine Learning, Pandas, NumPy, streamlit, sklearn, Excel, Tablue, PowerBI, Data Analysis, Data Visualization, Deep learning
 -  Email: your-vishalrathod7453@gmail.com
 
@@ -32,7 +32,7 @@
 -  Salary Predicted
 -  Walmart Data Analysis
 -  Reveiw Sentiment Analysis (NLP)
--  College cap rounf Predictor
+-  College cap round Predictor
 -  Supply chain Analysis
 
 

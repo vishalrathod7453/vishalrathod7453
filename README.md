@@ -2,7 +2,7 @@
 # Hi there 👋
 
 <# Hi 👋, I'm Vishal Rathod
-* Aspiring Data Scientist & Data Analyst | Python | SQL | Machine Learning  
+* Aspiring Data Scientist & Data Analyst | Python | SQL | Machine Learning | Streamlit app developer
 
 ---
 
@@ -34,6 +34,7 @@
 -  Reveiw Sentiment Analysis (NLP)
 -  College cap round Predictor
 -  Supply chain Analysis
+-  Salary Prediction 
 
 
 ---

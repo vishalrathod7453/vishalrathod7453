@@ -30,7 +30,7 @@
 -  Social Network Ads Predictor
 -  Student Performance Predictions
 -  Salary Predicted
--  Walmart Data Analysis
+-  Walmart Sales Analysis
 -  Reveiw Sentiment Analysis (NLP)
 -  College cap round Predictor
 -  Supply chain Analysis
@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 -  How to reach me: ...
 -  Pronouns: ...
 -  Fun fact: ...
--->
+ 

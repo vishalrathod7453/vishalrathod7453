@@ -34,7 +34,8 @@
 -  Reveiw Sentiment Analysis (NLP)
 -  College cap round Predictor
 -  Supply chain Analysis
--  Salary Prediction 
+-  Salary Prediction
+-  AI Job Market Intelligence  Analysis
 
 
 ---

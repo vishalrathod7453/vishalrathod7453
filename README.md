@@ -42,7 +42,7 @@
 ---
 
 ## 🌐 Connect with me
-- LinkedIn: (www.linkedin.com/in/vishal-rathod-0a2435386)!--
+- LinkedIn: (https://www.linkedin.com/in/vishal-rathod-0a2435386/)!--
 **vishalrathod7453/vishalrathod7453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

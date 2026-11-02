@@ -11,7 +11,7 @@
 -  Learning: Machine Learning & Power BI, SQL, Python, NLP
 -  Skills: Python, SQL, Machine Learning, Pandas, NumPy, streamlit, sklearn, Excel, Tablue, PowerBI, Data Analysis, Data Visualization, Deep learning
 -  Email: your-vishalrathod7453@gmail.com
--  Linkedin :https://www.linkedin.com/in/vishal-rathod-0a2435386/
+
 
 ---
 
